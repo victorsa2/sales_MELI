@@ -17,4 +17,11 @@ Realizei a exploração dos dados para verificar se haviam tratamentos necessár
 Criei o banco de dados e as tabelas, separando os dados crus com o prefíxo "raw" e as tabelas para o Data Warehouse com "dim" para dimensões e "fact" para a minha fato.
 A ideia é criar um modelo de dados performatíco para ser consumido no Tableau.
 
-Respondi algumas perguntas feitas no arquivo PDF.
+Também realizei algunas consultas para responder algumas perguntas do desafio também.
+
+
+## Arquivo do Tableau
+Arquivo .TWB com algumas visões solicitadas no desafio.
+
+## Relatório final
+Relatório com algumas análises finais sobre os dados coletados e apresentados no Tableau.
